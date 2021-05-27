@@ -30,16 +30,14 @@ if (which_year){
 
 <!--  -->
 
-Our research focus is on Multi-Robotic systems, Mobile Robotics, Robot Vision, Robot Mechanism and Control. To read more about our what problems we try to solve, please check out the [research]() page. 
-
-<!-- For some of our group highlights and representative work, you can see them on the [highlights]() page.  -->
+Our research focus is on Multi-Robotic systems, Mobile Robotics, Robot Vision, Robot Mechanism and Control. To read more about our what problems we try to solve,, please check out the [research]() page. For some of our group highlights and representative work, you can see them on the [highlights]() page. 
 
 ### 2021
 
 {% for publi in site.data.pubs.2021 %}
   
-  <b> {{ publi.title }} <br /> </b> 
-  <em>{{ publi.authors }} </em> <br />
+  <b> {{ publi.title }} <br /> </b>
+  <em>{{ publi.authors }} </em><br />
   Published at {{ publi.venue }} &nbsp; [<a href="{{ publi.link.url }}">{{ publi.link.display }}</a>]
 
 {% endfor %}

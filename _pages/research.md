@@ -1,14 +1,28 @@
 ---
-title: "Allan Lab - Research"
+title: "RRC - Research"
 layout: textlay
-excerpt: "Allan Lab -- Research"
+excerpt: "RRC -- Research"
 sitemap: false
 permalink: /research/
 ---
 
 # Research
 
-Our overarching goal is to explore and understand new quantum states of electronic matter on the atomic scale. To do so, we use and develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom.
+At the Robotics Research Center, we strive to extend the state-of-the-art in robotics, control, learning and AI. Our primary research focus is on Multi-Robotic systems, Mobile Robotics, Robot Vision, Robot Mechanism and Control.
+
+### Multi Robotic Systems
+
+Multi-robotic systems have been widely used for carrying out a single task effectively with a team of agents. The central issue with multiple robots is computing collision-free trajectories that is investigated in deterministic and probabilistic settings for distributed environments. The primary goal is to efficiently achieve the task of mapping an unknown environment using multple robots. 
+
+### Robot Mechanism
+
+Designing mechanism to transform motion to a desirable pattern and typically
+
+### Mobile Robotics
+
+### Robot Vision
+
+### Aerial Robots
 
 Our goal is to build instruments and develop techniques that enable us to address the questions we find most interesting. This is possible thanks also to Milan's broad background with different research themes and technologies: he learned his trade in [Seamus Davis’ SI-STM lab](http://davisgroup.lassp.cornell.edu/) and with [Felix Baumberger](http://dpmc.unige.ch/gr_baumberger/index.html), and later moved as an [ETH fellow](http://www.ethfellows.ethz.ch/) to [Andreas Wallraff’s qudev lab](http://www.qudev.ethz.ch/) where he investigated coupled cavity arrays in circuit QED. We further have group members with different background and interests, working together on physics and instrumentation.
 
