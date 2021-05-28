@@ -44,7 +44,7 @@
 
 #################### Visapp Papers #################################
 
-- title: "Multi-View Planarity Constraints for skyline estimation from UAV images in city scale urban environments"
+- title: "Multi-View Planarity Constraints for Skyline Estimation from UAV Images in City Scale Urban Environments"
   authors: Ayyappa Swamy Thatavarthy, Tanu Sharma, Harshit Sankhla, Mukul Khanna and K. Madhava Krishna
 
   venue: International Conference on Computer Vision Theory and Applications (VISAPP), 2021
@@ -52,6 +52,22 @@
     url:
     display: Project Page
 
+- title: "Early Bird: Loop Closures from Opposing Viewpoints for Perceptually-Aliased Indoor Environments"
+  authors: Satyajit Tourani, Dhagash Desai, Udit Singh Parihar, Sourav Garg, Ravi Kiran Sarvadevabhatla, 
+           Michael Milford and K. Madhava Krishna
+
+  venue: International Conference on Computer Vision Theory and Applications (VISAPP), 2021
+  link:
+    url:
+    display: Project Page
+
+- title: "BirdSLAM: Monocular Multibody SLAM in Bird's-Eye View"
+  authors: Swapnil Daga, Gokul B. Nair, Anirudha Ramesh, Rahul Sajnani, Junaid Ahmed Ansari and K. Madhava Krishna. 
+
+  venue: International Conference on Computer Vision Theory and Applications (VISAPP), 2021
+  link:
+    url:
+    display: Project Page
 
 
 #################### CRV Papers #################################
@@ -64,7 +80,13 @@
     url:
     display: Project Page
 
+- title: "Building Facades to Normal Maps: Adversarial Learning from Single View Images"
+  authors: Mukul Khanna\*, Tanu Sharma\*, Ayyappa Swamy Thatavarthy and K. Madhava Krishna
 
+  venue: Conference on Robots and Vision (CRV), 2021
+  link:
+    url:
+    display: Project Page
 
 
 #################### IV Papers #################################
