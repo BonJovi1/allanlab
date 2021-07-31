@@ -71,6 +71,222 @@ Our research focus is on Multi-Robotic systems, Mobile Robotics, Robot Vision, R
 
 ***
 
+### 2018
+
+{% for publi in site.data.pubs.2018 %}
+  
+  <b> {{ publi.title }} <br /> </b>
+  <em>{{ publi.authors }} </em><br />
+  Published at {{ publi.venue }} &nbsp; [<a href="{{ publi.link.url }}">{{ publi.link.display }}</a>]
+
+{% endfor %}
+
+***
+
+### 2017
+
+{% for publi in site.data.pubs.2017 %}
+  
+  <b> {{ publi.title }} <br /> </b>
+  <em>{{ publi.authors }} </em><br />
+  Published at {{ publi.venue }} &nbsp; [<a href="{{ publi.link.url }}">{{ publi.link.display }}</a>]
+
+{% endfor %}
+
+***
+
+### 2016
+
+{% for publi in site.data.pubs.2016 %}
+  
+  <b> {{ publi.title }} <br /> </b>
+  <em>{{ publi.authors }} </em><br />
+  Published at {{ publi.venue }} &nbsp; [<a href="{{ publi.link.url }}">{{ publi.link.display }}</a>]
+
+{% endfor %}
+
+***
+
+### 2015
+
+{% for publi in site.data.pubs.2015 %}
+  
+  <b> {{ publi.title }} <br /> </b>
+  <em>{{ publi.authors }} </em><br />
+  Published at {{ publi.venue }} &nbsp; [<a href="{{ publi.link.url }}">{{ publi.link.display }}</a>]
+
+{% endfor %}
+
+***
+
+### 2014
+
+{% for publi in site.data.pubs.2014 %}
+  
+  <b> {{ publi.title }} <br /> </b>
+  <em>{{ publi.authors }} </em><br />
+  Published at {{ publi.venue }} &nbsp; [<a href="{{ publi.link.url }}">{{ publi.link.display }}</a>]
+
+{% endfor %}
+
+***
+
+### 2013
+
+{% for publi in site.data.pubs.2013 %}
+  
+  <b> {{ publi.title }} <br /> </b>
+  <em>{{ publi.authors }} </em><br />
+  Published at {{ publi.venue }} &nbsp; [<a href="{{ publi.link.url }}">{{ publi.link.display }}</a>]
+
+{% endfor %}
+
+***
+
+### 2012
+
+{% for publi in site.data.pubs.2012 %}
+  
+  <b> {{ publi.title }} <br /> </b>
+  <em>{{ publi.authors }} </em><br />
+  Published at {{ publi.venue }} &nbsp; [<a href="{{ publi.link.url }}">{{ publi.link.display }}</a>]
+
+{% endfor %}
+
+***
+
+### 2011
+
+{% for publi in site.data.pubs.2011 %}
+  
+  <b> {{ publi.title }} <br /> </b>
+  <em>{{ publi.authors }} </em><br />
+  Published at {{ publi.venue }} &nbsp; [<a href="{{ publi.link.url }}">{{ publi.link.display }}</a>]
+
+{% endfor %}
+
+***
+
+### 2010
+
+{% for publi in site.data.pubs.2010 %}
+  
+  <b> {{ publi.title }} <br /> </b>
+  <em>{{ publi.authors }} </em><br />
+  Published at {{ publi.venue }} &nbsp; [<a href="{{ publi.link.url }}">{{ publi.link.display }}</a>]
+
+{% endfor %}
+
+***
+
+### 2009
+
+{% for publi in site.data.pubs.2009 %}
+  
+  <b> {{ publi.title }} <br /> </b>
+  <em>{{ publi.authors }} </em><br />
+  Published at {{ publi.venue }} &nbsp; [<a href="{{ publi.link.url }}">{{ publi.link.display }}</a>]
+
+{% endfor %}
+
+***
+
+### 2008
+
+{% for publi in site.data.pubs.2008 %}
+  
+  <b> {{ publi.title }} <br /> </b>
+  <em>{{ publi.authors }} </em><br />
+  Published at {{ publi.venue }} &nbsp; [<a href="{{ publi.link.url }}">{{ publi.link.display }}</a>]
+
+{% endfor %}
+
+***
+
+### 2007
+
+{% for publi in site.data.pubs.2007 %}
+  
+  <b> {{ publi.title }} <br /> </b>
+  <em>{{ publi.authors }} </em><br />
+  Published at {{ publi.venue }} &nbsp; [<a href="{{ publi.link.url }}">{{ publi.link.display }}</a>]
+
+{% endfor %}
+
+***
+
+### 2006
+
+{% for publi in site.data.pubs.2006 %}
+  
+  <b> {{ publi.title }} <br /> </b>
+  <em>{{ publi.authors }} </em><br />
+  Published at {{ publi.venue }} &nbsp; [<a href="{{ publi.link.url }}">{{ publi.link.display }}</a>]
+
+{% endfor %}
+
+***
+
+### 2005
+
+{% for publi in site.data.pubs.2005 %}
+  
+  <b> {{ publi.title }} <br /> </b>
+  <em>{{ publi.authors }} </em><br />
+  Published at {{ publi.venue }} &nbsp; [<a href="{{ publi.link.url }}">{{ publi.link.display }}</a>]
+
+{% endfor %}
+
+***
+
+### 2004
+
+{% for publi in site.data.pubs.2004 %}
+  
+  <b> {{ publi.title }} <br /> </b>
+  <em>{{ publi.authors }} </em><br />
+  Published at {{ publi.venue }} &nbsp; [<a href="{{ publi.link.url }}">{{ publi.link.display }}</a>]
+
+{% endfor %}
+
+***
+
+### 2003
+
+{% for publi in site.data.pubs.2003 %}
+  
+  <b> {{ publi.title }} <br /> </b>
+  <em>{{ publi.authors }} </em><br />
+  Published at {{ publi.venue }} &nbsp; [<a href="{{ publi.link.url }}">{{ publi.link.display }}</a>]
+
+{% endfor %}
+
+***
+
+### 2002
+
+{% for publi in site.data.pubs.2002 %}
+  
+  <b> {{ publi.title }} <br /> </b>
+  <em>{{ publi.authors }} </em><br />
+  Published at {{ publi.venue }} &nbsp; [<a href="{{ publi.link.url }}">{{ publi.link.display }}</a>]
+
+{% endfor %}
+
+***
+
+### 2001
+
+{% for publi in site.data.pubs.2001 %}
+  
+  <b> {{ publi.title }} <br /> </b>
+  <em>{{ publi.authors }} </em><br />
+  Published at {{ publi.venue }} &nbsp; [<a href="{{ publi.link.url }}">{{ publi.link.display }}</a>]
+
+{% endfor %}
+
+***
+
 <!-- ## Group highlights -->
 
 {% assign number_printed = 0 %}
