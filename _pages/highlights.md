@@ -8,27 +8,7 @@ permalink: /publications/
 
 # Publications
 
-<!-- <form>
-  <label for="years">Filter by Year</label>
-  <select name="year" id="year">
-    <option value="2021">2021</option>
-    <option value="2020">2020</option>
-    <option value="2019">2019</option>
-    <option value="2018">2018</option>
-  </select>
-  <br><br>
-</form>
 
-<script>
-var e = document.getElementById("year");
-if (which_year){
-  var which_year = e.value;
-}
-</script>
-
-<script> documment.write(which_year) </script> bon jovi <br> -->
-
-<!--  -->
 
 Our research focus is on Multi-Robotic systems, Mobile Robotics, Robot Vision, Robot Mechanism and Control. To read more about our what problems we try to solve,, please check out the [research]() page. For some of our group highlights and representative work, you can see them on the [highlights]() page. 
 
